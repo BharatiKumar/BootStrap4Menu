@@ -16,10 +16,20 @@ Open command prompt and navigate to BootStrap4
 
 Run the following:
 npm init -y
+
+
 npm i gulp browser-sync gulp-sass --save-dev
+
+
 npm i bootstrap jquery popper.js --save 
+
+
 npm install -g gulp
+
+
 code .  (this command will open visual studio code editor if visual studio code editor is not already open)
+
+
 gulp    ( "gulp" command  runs the gulpfile.js which actually opens the Index.html in a browser with a default port of 3000).
 
  
